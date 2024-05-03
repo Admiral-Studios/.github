@@ -2,7 +2,7 @@
 
 ## Hi there! We’re Admiral Studios.
 
-Hello! Welcome to our GitHub page! We have a lot of cool things for you. Our team has put together some useful tutorials and code that you can use. Plus you can evaluate the quality of our code.
+Hi! Welcome to our GitHub page! We have a lot of cool things for you. Our team has put together some useful tutorials and code that you can use. Plus you can evaluate the quality of our code.
 
 Look around! Check out the tools we use and explore our projects.
 
